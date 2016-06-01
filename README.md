@@ -1,1 +1,2 @@
-# django-store
+# Django Store
+This is a simple Django app.
